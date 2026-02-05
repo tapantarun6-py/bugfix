@@ -145,7 +145,8 @@ Real-world backend workflow
 
 Screenshots: 
 
-<img width="1920" height="1080" alt="Screenshot (428)" src="https://github.com/user-attachments/assets/70ae88df-d726-4a07-aa28-fa41df9a2ca1" />
+![WhatsApp Image 2026-02-05 at 12 53 35 PM (1)](https://github.com/user-attachments/assets/208bdcd9-1f4d-4e0d-8a29-7a4ae4052caf)
+
 
 
 👨‍💻 Author
@@ -156,3 +157,4 @@ B.Tech – Computer Science Engineering
 ⭐ Acknowledgements
 
 Inspired by modern issue tracking platforms like Jira, Linear, and ClickUp, and built as part of an industry-oriented internship project.
+

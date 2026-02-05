@@ -115,3 +115,44 @@ Login → /auth/login
 Create Project → /projects/
 
 Create Ticket → /tickets/{project_id}
+```
+🔑 Authorization:
+Use Bearer <your_token> in Swagger’s Authorize button.
+
+📦 Future Enhancements
+Role-based access control (Admin, Developer, Viewer)
+
+Kanban drag-and-drop board (React)
+
+Ticket comments & attachments
+
+WebSocket-based real-time updates
+
+PostgreSQL production database
+
+Deployment using Railway / Fly.io
+
+🧠 Learning Outcomes
+Clean FastAPI project structuring
+
+Secure JWT authentication
+
+ORM-based relational data modeling
+
+REST API design best practices
+
+Real-world backend workflow
+
+Screenshots: 
+
+<img width="1920" height="1080" alt="Screenshot (428)" src="https://github.com/user-attachments/assets/70ae88df-d726-4a07-aa28-fa41df9a2ca1" />
+
+
+👨‍💻 Author
+Tarun Tapan Tripathy
+Python Developer Intern
+B.Tech – Computer Science Engineering
+
+⭐ Acknowledgements
+
+Inspired by modern issue tracking platforms like Jira, Linear, and ClickUp, and built as part of an industry-oriented internship project.
